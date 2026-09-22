@@ -1,0 +1,10 @@
+{
+  "name": "DRIVR — Your Car. Your Driver.",
+  "short_name": "DRIVR",
+  "description": "Book a trusted professional driver for your own car.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4c68f4",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
